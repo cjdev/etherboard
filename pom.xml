@@ -10,7 +10,7 @@
         <httpobjects-version>0.7.0</httpobjects-version>
         <maven.compiler.source>1.6</maven.compiler.source>
         <maven.compiler.target>1.6</maven.compiler.target>
-        <jackson-version>2.4.4</jackson-version>
+        <jackson-version>2.12.1</jackson-version>
     </properties>
 
 
